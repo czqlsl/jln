@@ -18,7 +18,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>ipa包路径，可以放在http服务器</string>
+                        <string>http://pq59y3vgp.bkt.clouddn.com/jilingniu.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
